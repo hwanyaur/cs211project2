@@ -5,13 +5,6 @@
 // Northwestern University
 // CS 211, Winter 2023
 //
-// Hours spent on this MF assignment: 12
-//
-// not sure who thought this would take 3-6 hours....
-// be fr who is spending 3 hours on this besides the people
-// who cheat or use chatgpt... reading and understanding
-// the FIFTEEN PAGES of instructions alone takes like 1 hour
-// i feel lied to
 //
 
 // #include files
